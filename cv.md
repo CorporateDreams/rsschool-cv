@@ -1,4 +1,4 @@
-## Eustace Bagge
+## Corporate Dreams
 
 ---
 ### Junior Frontend Developer
@@ -6,10 +6,10 @@
 ---
 ### Contact information:
 
-Location: Nowhere, Kansas  
+Location: Miami  
 Phone: +7 000 0000000  
-E-mail: mytask@email.com  
-Telegram: @tasktelegram  
+E-mail: 53970105+CorporateDreams@users.noreply.github.com  
+Telegram: [@corporatedreams ](https://t.me/corporatedreams) 
 Github: [CorporateDreams](https://github.com/CorporateDreams)
 
 ### Summary
