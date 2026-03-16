@@ -24,3 +24,8 @@ My goal is to gain the knowledge and skills necessary to create my own online ga
 * JavaScript  
 * HTML  
 * CSS  
+
+### Code Examples
+
+---
+    console.log("Hello World!");
