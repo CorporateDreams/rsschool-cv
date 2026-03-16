@@ -16,4 +16,11 @@ Github: [CorporateDreams](https://github.com/CorporateDreams)
 
 ---
 I've recently started learning the JavaScript programming language, along with HTML and CSS.
-My goal is to gain the knowledge and skills necessary to create my own online game.
+My goal is to gain the knowledge and skills necessary to create my own online game.  
+
+### Skills
+
+---
+* JavaScript  
+* HTML  
+* CSS  
