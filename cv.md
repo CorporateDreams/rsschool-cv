@@ -29,3 +29,15 @@ My goal is to gain the knowledge and skills necessary to create my own online ga
 
 ---
     console.log("Hello World!");
+
+### Education
+
+---
+Courses:
+* [The Rolling Scopes school](https://rs.school/)
+
+### Language
+
+---
+* Russian - native speaker
+* English - A2 (B1 in progress)
