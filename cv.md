@@ -6,9 +6,8 @@
 ---
 ### Contact information:
 
-Location: Miami  
-Phone: +7 000 0000000  
-E-mail: 53970105+CorporateDreams@users.noreply.github.com  
+Location: Worldwide  
+Discord: corporatedreams  
 Telegram: [@corporatedreams ](https://t.me/corporatedreams)   
 Github: [CorporateDreams](https://github.com/CorporateDreams)
 
